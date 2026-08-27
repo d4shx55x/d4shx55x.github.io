@@ -1,5 +1,6 @@
-# Welcome to My Portfolio Hello! My name is [Your Alias or Initials].
+# Welcome to My Portfolio Hello! My name is Claudia.
 ## Projects
-- Project 1: Description
-- Project 2: Description
+- Project 1: Desc
+- Project 2: Desc
 ## About Me
+I like roblox and minecraft 
