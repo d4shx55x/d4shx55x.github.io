@@ -1,15 +1,4 @@
 ## Table of Contents
-
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-  - [Headings](#headings)
-  - [Text Formatting](#text-formatting)
-
-
-
-
-
-
-## Table of Contents
 - [Vocab](#vocab)
 - [Code Examples](#code-examples)
   - [Print Statements](#print-statements)
@@ -34,7 +23,25 @@
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
 </details>
 
- 
+<details>
+ <summary>selection</summary>
+    The point where decisions are made in an algorithm
+
+    Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE OUTPUT "Come back when you are older!"
+</details>
+
+<summary>iteration</summary>
+    The process of repeating a sequence of steps 
+
+    Example: Often, when creating a program, we need to try again and agaim
+</details>
+
+
+
+
+
+
+
 
 ## Code Examples
  
