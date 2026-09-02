@@ -30,11 +30,63 @@
     Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE OUTPUT "Come back when you are older!"
 </details>
 
+<details>
 <summary>iteration</summary>
     The process of repeating a sequence of steps 
 
     Example: Often, when creating a program, we need to try again and agaim
 </details>
+
+<details>
+ <summary>Java</summary>
+A programming language. Java and JavaScript are completely different languages.
+
+</details>
+
+<details>
+ <summary>object oriented programming</summary>
+Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
+
+</details>
+
+<details>
+ <summary>procedural languages</summary>
+Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
+
+</details>
+
+<details>
+ <summary>Java class</summary>
+In Java, a class is like a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
+
+</details>
+
+<details>
+ <summary>Java Method</summary>
+A method in Java is a block of code inside a class that performs a specific task when it's called.
+
+</details>
+
+<details>
+ <summary>console</summary>
+The area of a computer that notes from a program can be printed to. Kind of like a notebook.
+
+Example:On Skill Struck (python, javascript, and java) this is the area that your code is printed to
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
