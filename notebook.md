@@ -76,10 +76,22 @@ Example:On Skill Struck (python, javascript, and java) this is the area that you
 </details>
 
 
+<details>
+  <summary>variables</summary>
+A variable is like a box that holds the information you want
+
+  Example: String weather = "sunny";  int age = 4;
+
+</details>
 
 
-
-
+<details>
+<summary>strings</summary>
+A string is a set of words or numbers that are surrounded by quotation marks
+ 
+  Example: "Here is 1 string."
+  
+</details>
 
 
 
