@@ -1,7 +1,7 @@
 ## Table of Contents
 - [Vocab](#vocab)
 - [Code Examples](#code-examples)
-  - [Print Statements](#print-statements)
+- [Print Statements](#print-statements)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
  
@@ -92,6 +92,59 @@ A string is a set of words or numbers that are surrounded by quotation marks
   Example: "Here is 1 string."
   
 </details>
+
+
+<details>
+<summary>integers</summary>
+Int is short for integer, which is a data type that means a number value.
+
+  Example: 12, -300
+</details>
+
+
+<details>
+<summary>double</summary>
+Used for decimal numbers
+
+Example: 3.14, -.05
+</details>
+
+
+<details>
+<summary>char</summary>
+A data type of just one character. Used for a single character. Characters must be surrounded by single qoutes.
+
+  Example: 'A', '1', '$'
+</details>
+
+
+<details>
+<summary>boolean</summary>
+Represents true or false values. A data type that represents the value of True or False. In python, it must be capitalized True. In JavaScript and Java, its all lowercase true.
+
+  Example: true, false
+</details>
+
+
+<details>
+<summary></summary>
+
+
+  Example:
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
