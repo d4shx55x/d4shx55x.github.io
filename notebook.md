@@ -127,10 +127,11 @@ Represents true or false values. A data type that represents the value of True o
 
 
 <details>
-<summary></summary>
+<summary>Concatenation</summary>
+Adding strings together to create longer strings. "Hello my name" + "is" + "Dominique"
 
-
-  Example:
+ Example:print("This is " + "an example of " + "concatenation.")
+# Output: This is an example of concatenation.
 </details>
 
 
