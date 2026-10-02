@@ -10,28 +10,28 @@
 
 ## Vocab
 <details>
-  <summary>algorithm</summary>
+  <summary>Algorithm</summary>
     Step-by-step instructions. 
   
     Example: The steps to making cookies and a method we use for long math problems are both examples of algorithms.
 </details>
 
 <details>
-  <summary>sequencing</summary>
+  <summary>Sequencing</summary>
     The order things happen in.
 
     Example: Brushing your teeth might consist of these steps: Put toothpaste on the toothbrush. Use the toothbrush to clean your teeth.
 </details>
 
 <details>
- <summary>selection</summary>
+ <summary>Selection</summary>
     The point where decisions are made in an algorithm
 
     Example: Input “How old are you?” age ← USER INPUT IF age > 16 THEN OUTPUT "You are old enough to drive a car" ELSE OUTPUT "Come back when you are older!"
 </details>
 
 <details>
-<summary>iteration</summary>
+<summary>Iteration</summary>
     The process of repeating a sequence of steps 
 
     Example: Often, when creating a program, we need to try again and agaim
@@ -44,13 +44,13 @@ A programming language. Java and JavaScript are completely different languages.
 </details>
 
 <details>
- <summary>object oriented programming</summary>
+ <summary>Object Oriented Programming</summary>
 Object-oriented programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
 
 </details>
 
 <details>
- <summary>procedural languages</summary>
+ <summary>Procedural Languages</summary>
 Procedural Languages focus on procedures (functions) that operate on data in a linear top-down sequence.
 
 </details>
@@ -68,7 +68,7 @@ A method in Java is a block of code inside a class that performs a specific task
 </details>
 
 <details>
- <summary>console</summary>
+ <summary>Console</summary>
 The area of a computer that notes from a program can be printed to. Kind of like a notebook.
 
 Example:On Skill Struck (python, javascript, and java) this is the area that your code is printed to
@@ -77,7 +77,7 @@ Example:On Skill Struck (python, javascript, and java) this is the area that you
 
 
 <details>
-  <summary>variables</summary>
+  <summary>Variables</summary>
 A variable is like a box that holds the information you want
 
   Example: String weather = "sunny";  int age = 4;
@@ -86,7 +86,7 @@ A variable is like a box that holds the information you want
 
 
 <details>
-<summary>strings</summary>
+<summary>Strings</summary>
 A string is a set of words or numbers that are surrounded by quotation marks
  
   Example: "Here is 1 string."
@@ -95,7 +95,7 @@ A string is a set of words or numbers that are surrounded by quotation marks
 
 
 <details>
-<summary>integers</summary>
+<summary>Integers</summary>
 Int is short for integer, which is a data type that means a number value.
 
   Example: 12, -300
@@ -103,7 +103,7 @@ Int is short for integer, which is a data type that means a number value.
 
 
 <details>
-<summary>double</summary>
+<summary>Double</summary>
 Used for decimal numbers
 
 Example: 3.14, -.05
@@ -111,7 +111,7 @@ Example: 3.14, -.05
 
 
 <details>
-<summary>char</summary>
+<summary>Char</summary>
 A data type of just one character. Used for a single character. Characters must be surrounded by single qoutes.
 
   Example: 'A', '1', '$'
@@ -119,7 +119,7 @@ A data type of just one character. Used for a single character. Characters must 
 
 
 <details>
-<summary>boolean</summary>
+<summary>Boolean</summary>
 Represents true or false values. A data type that represents the value of True or False. In python, it must be capitalized True. In JavaScript and Java, its all lowercase true.
 
   Example: true, false
@@ -135,7 +135,11 @@ Adding strings together to create longer strings. "Hello my name" + "is" + "Domi
 </details>
 
 
-
+<details>
+<summary>Type Conversion</summary>
+Type conversion is the process of changing a value from one data type to another, like turning an `int` into a `double` or a `String` into an `int`.
+ 
+</details>
 
 
 
