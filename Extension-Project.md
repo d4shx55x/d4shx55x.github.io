@@ -74,8 +74,6 @@ public class Main {
 }
 
 
-// CLASE SECUNDARIA HERO (Agregada aquí mismo para evitar errores de carpetas)
-class Hero {
    
     private String name;
     private String heroClass;
